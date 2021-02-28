@@ -63,4 +63,6 @@ Temporary Items
 # End of https://www.toptal.com/developers/gitignore/api/go,vscode,macos
 
 reactor
-config/*
+config/config.yaml
+config/redis.conf
+
